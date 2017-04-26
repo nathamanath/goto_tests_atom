@@ -1,0 +1,16 @@
+{
+  "name": "goto-tests",
+  "main": "./lib/goto_tests",
+  "version": "0.0.1",
+  "description": "Jump form source to test to source",
+  "keywords": [
+    "goto tests"
+  ],
+  "repository": "https://github.com/atom/goto-tests",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

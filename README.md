@@ -14,3 +14,5 @@ Atom plug in which allows you to jump between test and source files.
 `ctrl-shift-Y` - run specs
 
 * TODO: Config from config.cson
+* TODO: per language overrides in config.cson
+* TODO: per project overrides in json file

@@ -1,6 +1,6 @@
 # goto-tests
 
-Atom plug in which allows you to jump between test and source files.
+WIP!! Atom plug in which allows you to jump between test and source files.
 
 ## Installation
 
@@ -9,6 +9,8 @@ Atom plug in which allows you to jump between test and source files.
 ### Configuration
 
 ## Development
+
+`apm link`
 
 `ctrl-shift-f5` - reload atom window
 `ctrl-shift-Y` - run specs
